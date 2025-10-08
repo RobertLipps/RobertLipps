@@ -7,7 +7,7 @@
 📈 Bridging quantitative finance with scalable engineering
 
 ## 🔧 Projects
-- `RestatementProcessor` – Python class for automated email parsing and logging
+- [RestatementProcessor][https://github.com/RobertLipps/outlook-attachment-extractor]
 - `AladdinViewTools` – Python utilities for data extraction and validation
 
 ## 📌 Featured Gists
