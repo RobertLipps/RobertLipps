@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Robert Lipps
 
-<!--
-**RobertLipps/RobertLipps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Associate Director | Derivatives Valuation Team Lead  
+📊 Passionate about applying computer science to financial mathematics  
+🧠 Building transparent, automated valuation workflows  
+🔍 Exploring Python, VBA, and SQL for data accuracy, risk modeling, and portfolio analytics  
+📈 Bridging quantitative finance with scalable engineering
 
-Here are some ideas to get you started:
+## 🔧 Projects
+- `RestatementProcessor` – Python class for automated email parsing and logging
+- `AladdinViewTools` – Python utilities for data extraction and validation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/rlipps14/)
