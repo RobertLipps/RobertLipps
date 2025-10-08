@@ -10,5 +10,7 @@
 - `RestatementProcessor` – Python class for automated email parsing and logging
 - `AladdinViewTools` – Python utilities for data extraction and validation
 
+## 📌 Featured Gists
+- [GitHub Gist](https://gist.github.com/RobertLipps)
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/rlipps14/)
