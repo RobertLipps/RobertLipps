@@ -4,7 +4,7 @@
 💼 Former:  Associate Director | Derivatives Valuation Team Lead  
 📊 Passionate about applying computer science to financial mathematics  
 🧠 Building transparent, automated valuation workflows  
-🔍 Exploring Python, VBA, and SQL for data accuracy, risk modeling, and portfolio analytics  
+🔍 Exploring Python, R, SQL, and VBA for data accuracy, risk modeling, and portfolio analytics  
 📈 Bridging quantitative finance with scalable engineering
 
 ## 🔧 Projects
