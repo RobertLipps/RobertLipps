@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Robert Lipps
 
-💼 Current: Associate Director | Asset Backed Finance -- Global Structured Finance 
+💼 Current: Associate Director | Asset Backed Finance
 💼 Former:  Associate Director | Derivatives Valuation Team Lead  
 📊 Passionate about applying computer science to financial mathematics  
 🧠 Building transparent, automated valuation workflows  
